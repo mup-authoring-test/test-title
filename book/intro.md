@@ -1,3 +1,1 @@
-# Introduction
-
-Test introduction.
+# Test introduction.

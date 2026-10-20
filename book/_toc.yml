@@ -5,4 +5,5 @@ parts:
   - caption: Chapters
     chapters:
       - file: chapters/01-untitled-chapter
+      - file: chapters/02-chapter-2
 

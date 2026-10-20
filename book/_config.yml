@@ -1,4 +1,4 @@
-title: "Test-Title"
+title: "test-title"
 author: Generated with Plain Text to Markdown Converter
 
 execute:
@@ -18,7 +18,7 @@ sphinx:
     html_baseurl: "https://mup-authoring-test.github.io/test-title"
     html_theme_options:
       logo:
-        text: "Test-Title"
+        text: "test-title"
       repository_url: "https://github.com/mup-authoring-test/test-title"
       path_to_docs: "book"
       repository_branch: "main"
