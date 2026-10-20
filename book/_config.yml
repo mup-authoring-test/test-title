@@ -21,7 +21,7 @@ sphinx:
         text: "test-title"
       repository_url: "https://github.com/mup-authoring-test/test-title"
       path_to_docs: "book"
-      repository_branch: "main"
+      repository_branch: "version/new-chapter-test"
       use_edit_page_button: true
       use_repository_button: true
       use_issues_button: true
